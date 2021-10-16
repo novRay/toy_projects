@@ -1,4 +1,5 @@
-# Toy projects
-A repository for self coding practices
+# Start-up Site
+A start-up website, using CSS animation.
 
-Switch branches to see different projects.
+![](README.assets/QQ截图20211017000003.png)
+
